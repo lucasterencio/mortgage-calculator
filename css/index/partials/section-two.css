@@ -1,0 +1,38 @@
+.result{
+    background-color: #133041;
+    width: 50%;
+    border-radius: 0 24px 24px 80px;
+    border-bottom-left-radius: 80px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-result{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    
+}
+
+.content-result img{
+    width: 192px;
+    height: 192px;
+}
+
+.content-result h2{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.content-result p{
+    text-align: center;
+    color: #9ABED5;
+    font-size: 16px;
+    font-weight: 500;
+}
+
